@@ -1,0 +1,11 @@
+
+Day: 1
+Number of lemonade cups made  :100
+Number of lemonade cups sold  :46
+Expense  :91
+profit   :1
+Day: 2
+Number of lemonade cups made  :16
+Number of lemonade cups sold  :16
+Expense  :65
+profit   :-33
